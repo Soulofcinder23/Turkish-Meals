@@ -1,4 +1,4 @@
-# Turkish-Meals
+# Minecraft Turkish-Meals
 Turkish Meals mod adds meals and recipes to minecraft. 
 
 ![1612354426-87873-turkishmeals](https://user-images.githubusercontent.com/57289907/157661971-0bcc7337-10b5-4eae-904d-e7e280fa8c16.png)
